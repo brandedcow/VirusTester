@@ -1,0 +1,13 @@
+Christophers-MacBook-Pro:VirusTester christopherkang$ php /Applications/XAMPP/xamppfiles/htdocs/vendor/codeception/codeception/codecept run unit homeTest
+Codeception PHP Testing Framework v2.3.6
+Powered by PHPUnit 5.7.22 by Sebastian Bergmann and contributors.
+
+Unit Tests (2) -----------------------------------------------------------------
+✔ homeTest: File validation (0.00s)
+✔ homeTest: Name validation (0.00s)
+--------------------------------------------------------------------------------
+
+
+Time: 83 ms, Memory: 8.00MB
+
+OK (2 tests, 3 assertions)
